@@ -1,0 +1,12 @@
+
+I show below which .py file is associated for each point.
+
+1. I created get_data_api.py in order to get data and save data into a .json file
+   Then in file insert_into_sqlite_tables.py I insert data into 3 sqlite tables created
+
+2. In database_operations.py can be found some SQL queries in python script
+
+3. For pandas manipulations I created pandas_operations.py (3.a + 3.b)
+
+4.a - interactions_between_tables.py
+4.b - generate_report.py
